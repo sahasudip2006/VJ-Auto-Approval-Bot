@@ -59,10 +59,10 @@ async def op(_, m :Message):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🗯 Channel", url="https://t.me/vj_botz"),
-                        InlineKeyboardButton("💬 Support", url="https://t.me/vj_bot_disscussion")
+                        InlineKeyboardButton("🗯 Channel", url="https://t.me/main_channel_bot_update"),
+                        InlineKeyboardButton("💬 Support", url="https://t.me/Ott_Movie_Request_Group")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/vjmasterblastbot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="http://t.me/AUTO_APPROVED_REQUEST_BOT?startgroup")
                     ]
                 ]
             )
@@ -73,7 +73,7 @@ async def op(_, m :Message):
             keyboar = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/vjmasterblastbot?startgroup")
+                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="http://t.me/AUTO_APPROVED_REQUEST_BOT?startgroup")
                     ]
                 ]
             )
@@ -101,10 +101,10 @@ async def chk(_, cb : CallbackQuery):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🗯 Channel", url="https://t.me/VJ_Botz"),
-                        InlineKeyboardButton("💬 Support", url="https://t.me/vj_bot_disscussion")
+                        InlineKeyboardButton("🗯 Channel", url="https://t.me/main_channel_bot_update"),
+                        InlineKeyboardButton("💬 Support", url="https://t.me/Ott_Movie_Request_Group")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/vjmasterblastbot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="http://t.me/AUTO_APPROVED_REQUEST_BOT?startgroup")
                     ]
                 ]
             )
